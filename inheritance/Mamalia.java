@@ -1,7 +1,7 @@
 package belajaroop.inheritance;
 
-public class Mamalia extends Hewan{
-int jumlahKaki;
+public class Mamalia extends Hewan {
+    int jumlahKaki;
 
     public Mamalia(String nama, int jumlahKaki) {
         super(nama);
